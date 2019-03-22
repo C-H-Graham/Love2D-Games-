@@ -12,6 +12,7 @@ The projects are based on curriculum taken on by Colton Ogden and the class of C
     - Windows: `"C:\Program Files\LOVE\love.exe" "C:\games\mygame"`
     - Linux: `love /home/path/to/gamedir/`
     - OSX: `open -n -a love "~/path/to/mygame"`
+**Note:** navigate to the last breakoutfolder for the current version of the project. The other folders are previous iterations with less features or working code.
 
 For more info on getting started, you can go [here](https://love2d.org/wiki/Getting_Started)
 
